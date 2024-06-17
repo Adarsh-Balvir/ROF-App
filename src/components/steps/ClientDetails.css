@@ -1,0 +1,41 @@
+.photo-text {
+    font-family: 'Poppins', sans-serif;
+    color: #2D2D2D;
+    font-size: 14px;
+    margin-top: 3px;
+
+}
+
+.photo-field {
+    border: 1px solid #969696;
+    color: #969696;
+}
+
+.preview-button {
+    border: 1px solid #632E04;
+    color: #632E04;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.field-text {
+    color: #7F7F7F;
+}
+
+label {
+    font-weight: 500;
+}
+
+.relative .focused {
+    font-weight: 500;
+    color: black;
+}
+
+.relative span {
+    transition: all 0.3s ease;
+}
+
+.contry-code {
+    color: rgba(45, 45, 45, 0.5);
+    font-weight: 500;
+}

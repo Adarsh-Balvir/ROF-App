@@ -1,3 +1,4 @@
+// FormContext.js
 import React, { createContext, useState } from 'react';
 
 export const FormContext = createContext();
@@ -15,7 +16,7 @@ export const FormProvider = ({ children }) => {
         notes: '',
         team: '',
         salesExecutive: '',
-        image: null, // Added image field to store uploaded image
+        image: null,
     });
 
     return (

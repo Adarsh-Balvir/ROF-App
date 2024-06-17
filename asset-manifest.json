@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/ROF-App/static/css/main.d094fe44.css",
-    "main.js": "/ROF-App/static/js/main.53632d73.js",
+    "main.css": "/ROF-App/static/css/main.c8c45978.css",
+    "main.js": "/ROF-App/static/js/main.243cf787.js",
+    "static/media/client-image.png": "/ROF-App/static/media/client-image.531a70a2698bb4990e91.png",
+    "static/media/vector-bg.png": "/ROF-App/static/media/vector-bg.6de6b6d81c51708c5fee.png",
+    "static/media/main-logo.png": "/ROF-App/static/media/main-logo.99ee18581fcdd813f1a1.png",
     "index.html": "/ROF-App/index.html",
-    "main.d094fe44.css.map": "/ROF-App/static/css/main.d094fe44.css.map",
-    "main.53632d73.js.map": "/ROF-App/static/js/main.53632d73.js.map"
+    "main.c8c45978.css.map": "/ROF-App/static/css/main.c8c45978.css.map",
+    "main.243cf787.js.map": "/ROF-App/static/js/main.243cf787.js.map"
   },
   "entrypoints": [
-    "static/css/main.d094fe44.css",
-    "static/js/main.53632d73.js"
+    "static/css/main.c8c45978.css",
+    "static/js/main.243cf787.js"
   ]
 }

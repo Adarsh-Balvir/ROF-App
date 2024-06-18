@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ROF-App/static/css/main.c8c45978.css",
-    "main.js": "/ROF-App/static/js/main.243cf787.js",
+    "main.css": "/ROF-App/static/css/main.a6c47ca4.css",
+    "main.js": "/ROF-App/static/js/main.44c7de1f.js",
     "static/media/client-image.png": "/ROF-App/static/media/client-image.531a70a2698bb4990e91.png",
     "static/media/vector-bg.png": "/ROF-App/static/media/vector-bg.6de6b6d81c51708c5fee.png",
+    "static/media/Vector 28.png": "/ROF-App/static/media/Vector 28.5e74cafc75063bb2b8af.png",
     "static/media/main-logo.png": "/ROF-App/static/media/main-logo.99ee18581fcdd813f1a1.png",
     "index.html": "/ROF-App/index.html",
-    "main.c8c45978.css.map": "/ROF-App/static/css/main.c8c45978.css.map",
-    "main.243cf787.js.map": "/ROF-App/static/js/main.243cf787.js.map"
+    "main.a6c47ca4.css.map": "/ROF-App/static/css/main.a6c47ca4.css.map",
+    "main.44c7de1f.js.map": "/ROF-App/static/js/main.44c7de1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8c45978.css",
-    "static/js/main.243cf787.js"
+    "static/css/main.a6c47ca4.css",
+    "static/js/main.44c7de1f.js"
   ]
 }

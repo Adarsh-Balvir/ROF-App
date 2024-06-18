@@ -9,7 +9,7 @@
 .stepper-container::before {
     content: '';
     position: absolute;
-    top: 15%;
+    top: 11.5%;
     left: 0%;
     right: 0%;
     height: 2px;

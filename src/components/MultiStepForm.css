@@ -9,7 +9,7 @@
 .stepper-container::before {
     content: '';
     position: absolute;
-    top: 7.5%;
+    top: 15%;
     left: 0%;
     right: 0%;
     height: 2px;
@@ -74,7 +74,7 @@
 }
 
 .stepper-label {
-    margin-top: 12px;
+    margin-top: 15px;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Poppins', sans-serif;

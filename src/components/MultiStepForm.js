@@ -77,10 +77,7 @@ const MultiStepForm = () => {
                 </div>
             </header>
             <div className="flex flex-1">
-                {currentStep !== 5 && <div className="w-1/3 bg-cover bg-center client-image">
-                    <h6 className='text-2xl text-center mt-6 text-white client-bg-heading'>CLIENT INFORMATION FORM</h6>
-                </div>}
-                <div className={`vector-bg w-2/3 p-7 flex flex-col align-center items-center bg ${currentStep === 5 ? 'w-full' : ''}`}>
+                <div className="w-full p-7 flex flex-col align-center items-center bg">
                     <div className="stepper-container mb-8 w-full">
                         {steps.map((step, index) => (
                             <div key={index} className={`stepper-item ${index <= currentStep ? 'active' : ''}`}>
